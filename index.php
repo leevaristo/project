@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hello, world!</h1>
-    <p>This is a simple PHP webpage update by Jenkins </p>
+    <p>This is a simple PHP webpage update by Jenkins using github trigger</p>
 </body>
 </html>
